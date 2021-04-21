@@ -1,6 +1,6 @@
 {
-  "homepage": "https://nieldcarly.github.io",
-  "name": "sqwid-app",
+  "homepage": "https://nieldcarly.github.io/react-deploy",
+  "name": "react-deploy",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
