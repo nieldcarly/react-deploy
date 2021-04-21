@@ -24,7 +24,7 @@ function App() {
   // }
 
   return (
-    <BrowserRouter basename="/">
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <div className="container">
         <a href="/">
           <h1 className="main-header m-3 d-flex">
